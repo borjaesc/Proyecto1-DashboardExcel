@@ -46,6 +46,13 @@ El objetivo principal de PeakSales Grocery es optimizar las ventas de los produc
 
    - Análisis de correlación entre categorías y puntuación de satisfacción.
 
+   - Agrupación de clientes en segmentos basados en su comportamiento, permitiendo el desarrollo de estrategias de marketing personalizadas (identificar patrones de compras recurrentes como productos comprados con mayor frecuencia, horarios de compras o crear segmentos como por ejemplo compradores frecuentes o clientes de productos frescos)
+
+   - Comprensión de cómo las ventas de ciertas categorías impactan la satisfacción del cliente.
+
+   - Optimización de la distribución de productos, aumentando las ventas adaptando la oferta de productos según el tipo de supermercado.
+   
+
    
         
 
